@@ -18,54 +18,65 @@ clock = pygame.time.Clock()
 question_bank = {
     1: [
         {
-            'text': "Level 1, Question 1",
-            'choices': ["YES", "NO", "MAYBE"],
+            'text': "All living beings live on forever",
+            'choices': ["True", "False"],
             'answer': 1,
             'bobby': "assets/expression_excited.png"
         },
         {
-            'text': "Level 1, Question 2",
-            'choices': ["TRUE", "FALSE"],
+            'text': "When the living body is no longer alive, it breaks down naturally",
+            'choices': ["True", "False"],
             'answer': 0,
-            'bobby': "assets/expression_anxiety.png"
+            'bobby': "assets/expression_happy.png"
+        },
+        {
+            'text': "Trees and plants cannot get nutrients from the soil",
+            'choices': ["True", "False"],
+            'answer': 1,
+            'bobby': "assets/expression_smiley_teeth_eyes_closed.png"
         },
     ],
     2: [
         {
-            'text': "Level 2, Question 1",
-            'choices': ["APPLE", "BANANA", "ORANGE", "KIWI"],
-            'answer': 3,
-            'bobby': "assets/expression_excited.png"
+            'text': "Where do trees and plants get nutrients from?",
+            'choices': ["Soil", "Coffins", "Chemicals"],
+            'answer': 0,
+            'bobby': "assets/expression_smiley_teeth    _eyes_open.png"
         },
         {
-            'text': "Level 2, Question 2",
-            'choices': ["TRUE", "FALSE"],
-            'answer': 0,
-            'bobby': "assets/expression_anxiety.png"
+            'text': "Bacteria in the soil damages plants",
+            'choices': ["True", "False"],
+            'answer': 1,
+            'bobby': "assets/expression_smiley_teeth_eyes_closed.png"
         },
         {
-            'text': "Level 2, Question 3",
-            'choices': ["TRUE", "FALSE"],
-            'answer': 0,
-            'bobby': "assets/expression_anxiety.png"
+            'text': "Cremation is a process of wrapping the body with leaves for burial",
+            'choices': ["True", "False"],
+            'answer': 1,
+            'bobby': "assets/expression_happy.png"
         }
     ],
     3: [
         {
-            'text': "Level 3, Question 1",
-            'choices': ["YES", "NO", "MAYBE"],
+            'text': "Cremation and traditional burial with coffins or caskets are good for planet Earth",
+            'choices': ["Yes", "No", "Maybe"],
             'answer': 1,
             'bobby': "assets/expression_excited.png"
         },
         {
-            'text': "Level 3, Question 2",
-            'choices': ["TRUE", "FALSE", "BOTH"],
+            'text': "Toxic chemicals leak into the soil from harmful burial methods",
+            'choices': ["True", "False"],
             'answer': 0,
-            'bobby': "assets/expression_anxiety.png"
+            'bobby': "assets/expression_happy.png"
+        },
+        {
+            'text': "Planet Earth needs our help to make it better",
+            'choices': ["Yes", "No"],
+            'answer': 0,
+            'bobby': "assets/expression_wink.png"
         },
     ],
 }
-
 
 
 # Main Class
