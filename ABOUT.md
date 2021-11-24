@@ -1,5 +1,6 @@
 # Tree Of Life
 
+
 ## Objectives
 
 Our aim is to educate people on the importance of sustainability through a fun and interactive mobile game called 'Tree of Life '.  This game would enable users to learn about the cycle of life and embrace sustainable habits like planting trees which are a vital link to sustainability and climate change. The app was produced by 4 women, as part of the November 2021 All-Women Global Virtual Hackathon hosted by The Expat Woman under the theme of *Social Impact*. 
@@ -7,6 +8,7 @@ Our aim is to educate people on the importance of sustainability through a fun a
 ## The Challenge
 
 Modern burial methods such as traditional coffins, caskets, and cremation are actively leaching toxic chemicals into our soil, causing harm to our bodies and ecosystem and prevents us from experiencing the full cycle of life. 
+
 
 ## The Solution
 
@@ -20,6 +22,7 @@ Also, user empowerment through learning and accomplishing tasks is further eleva
 
 The social impact ultimately exceeds newfound friendships and connections and will bring together a mass of unity to fight climate change and increase sustainable living for generations to come. 
 
+
 ## Key Educational Topics of Tree of Life
 
 - Green Burial Methods
@@ -31,6 +34,7 @@ The social impact ultimately exceeds newfound friendships and connections and wi
 - Tree Planting
 - Environmental Exploration through terrains and dendrology and plants
 - Social Connection - the creation of new social connections and accountability through friendly competition
+
 
 ## Technology Used
 
