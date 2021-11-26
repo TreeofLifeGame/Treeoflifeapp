@@ -1,6 +1,18 @@
 # TreeOfLife
 
-## Requirements
+## How To Install
+
+### Email Configuration
+
+To send out emails from our email to users that sign-up, we will need to input our email and password into the [question.py](./question.py) file. Inside the `SignUp` class, the `s_user` and `s_pass` should be set to your email and password.
+
+
+```python
+s_user = "my-email-address@myemail.com"
+s_pass = "SomePASSWORD123!"
+```
+
+### Dependencies
 
 * Python3.9
 * pygame
