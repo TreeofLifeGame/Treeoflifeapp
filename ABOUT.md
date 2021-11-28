@@ -11,6 +11,7 @@ Our aim is to educate people on the importance of sustainability through a fun a
 Modern burial methods such as traditional coffins, caskets, and cremation are actively leaching toxic chemicals into our soil, causing harm to our bodies and ecosystem and prevents us from experiencing the full cycle of life. 
 
 <br>
+
 ## The Solution
 
 Through educating and engaging users with the Tree of Life game, our goal is to provide effective and greener alternatives to cater to the passing of the physical body and other sustainable habits that combat climate change via a series of fun interactive games. 
@@ -24,6 +25,7 @@ Also, user empowerment through learning and accomplishing tasks is further eleva
 The social impact ultimately exceeds newfound friendships and connections and will bring together a mass of unity to fight climate change and increase sustainable living for generations to come. 
 
 <br>
+
 ## Key Educational Topics of Tree of Life
 
 - Green Burial Methods
@@ -37,13 +39,16 @@ The social impact ultimately exceeds newfound friendships and connections and wi
 - Social Connection - the creation of new social connections and accountability through friendly competition
 
 <br>
+
 ## Technology Used
 
 * Python3
   * Learn to configure Python by reading the [README](./README.md)
 
 <br>
+
 ## Demo
 
 <br>
+
 ## Screenshots
