@@ -2,14 +2,6 @@
 
 ## What is the Tree Of Life app?
 
-### Objectives
-
-Our aim is to educate people on the importance of sustainability through a fun and interactive mobile game called 'Tree of Life '.  This game would enable users to learn about the cycle of life and embrace sustainable habits like planting trees which are a vital link to sustainability and climate change. The app was produced by 4 women, as part of the November 2021 All-Women Global Virtual Hackathon hosted by The Expat Woman under the theme of *Social Impact*. 
-
-### The Challenge
-
-## Objectives
-
 Our aim is to educate people on the importance of sustainability through a fun and interactive mobile game called 'Tree of Life '.  This game would enable users to learn about the cycle of life and embrace sustainable habits like planting trees which are a vital link to sustainability and climate change. The app was produced by 4 women, as part of the November 2021 All-Women Global Virtual Hackathon hosted by The Expat Woman under the theme of *Social Impact*. 
 
 ## The Challenge
@@ -17,7 +9,7 @@ Our aim is to educate people on the importance of sustainability through a fun a
 Modern burial methods such as traditional coffins, caskets, and cremation are actively leaching toxic chemicals into our soil, causing harm to our bodies and ecosystem and prevents us from experiencing the full cycle of life. 
 
 
-### The Solution
+## The Solution
 
 Through educating and engaging users with the Tree of Life game, our goal is to provide effective and greener alternatives to cater to the passing of the physical body and other sustainable habits that combat climate change via a series of fun interactive games. 
 
@@ -30,7 +22,7 @@ Also, user empowerment through learning and accomplishing tasks is further eleva
 The social impact ultimately exceeds newfound friendships and connections and will bring together a mass of unity to fight climate change and increase sustainable living for generations to come. 
 
 
-#### Key Educational Topics of Tree of Life
+## Key Educational Topics of Tree of Life
 
 - Green Burial Methods
 - Soil Health & Reforestation
